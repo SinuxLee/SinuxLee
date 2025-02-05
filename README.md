@@ -23,7 +23,7 @@ I'm a passionate developer with a keen interest in open-source projects and coll
 
 ## GitHub Stats
 
-![SinuxLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=SinuxLee&show_icons=true&theme=radical)
+![SinuxLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinuxlee&show_icons=true&count_private=true&include_all_commits=true)
 
 ## Recent Activity
 
