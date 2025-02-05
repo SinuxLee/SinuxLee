@@ -16,8 +16,7 @@ I'm a passionate developer with a keen interest in open-source projects and coll
 - ⚡ Fun fact: [Something interesting about you]
 
 ## My Skills
-
-- **Languages:** [List of languages you know]
+![SinuxLee's Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=SinuxLee&layout=compact)
 - **Frameworks:** [List of frameworks you use]
 - **Tools:** [List of tools you are familiar with]
 
