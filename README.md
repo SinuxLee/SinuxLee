@@ -20,6 +20,9 @@ I'm a passionate developer with a keen interest in open-source projects and coll
 - **Frameworks:** [List of frameworks you use]
 - **Tools:** [List of tools you are familiar with]
 
+## Streak stats
+![SinuxLee's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SinuxLee)
+
 ## GitHub Stats
 
 ![SinuxLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinuxlee&show_icons=true&count_private=true&include_all_commits=true)
